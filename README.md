@@ -1,3 +1,3 @@
-# Complete Closed Code License version 1(CCC1)
-source code is closed and nonused.
-binary is closed and nonused.
+# Complete Closed Code License(CCC)
+current CCC version is version 1.
+https://github.com/CompleteClosedCodeCore/CompleteClosedCodeLicense1
